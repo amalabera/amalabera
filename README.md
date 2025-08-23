@@ -19,6 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -26,11 +27,13 @@
 
 ## 😄 Featured Projects
 
-🔹 **[FastAPI Microservices](#)** – Scalable backend with FastAPI + Kubernetes + PostgreSQL  
-🔹 **[Flask Hospital App](#)** – Flask-based internal tool for patient records & scheduling  
-🔹 **[PySpark ETL Pipelines](#)** – Distributed ETL workflows with Airflow & PySpark  
-🔹 **[MLOps LLM Pipeline](#)** – LangChain + Hugging Face + FastAPI (RAG & NLP demos)  
-🔹 **[Python Utilities](#)** – Small scripts (Prime Checker, Email Cleaner, Dice Roller)  
+✨ **[FastAPI Microservices](#)** – Scalable backend with FastAPI + Kubernetes + PostgreSQL  
+✨ **[Flask Hospital App](#)** – Flask-based internal tool for patient records & scheduling  
+✨ **[PySpark ETL Pipelines](#)** – Distributed ETL workflows with Airflow & PySpark  
+✨ **[MLOps LLM Pipeline](#)** – LangChain + Hugging Face + FastAPI (RAG & NLP demos)  
+✨ **[Python Utilities](#)** – Small scripts (Prime Checker, Email Cleaner, Dice Roller)  
+
+
 
 ---
 
