@@ -23,19 +23,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
-
-## 😄 Featured Projects
-
-✨ **[FastAPI Microservices](#)** – Scalable backend with FastAPI + Kubernetes + PostgreSQL  
-✨ **[Flask Hospital App](#)** – Flask-based internal tool for patient records & scheduling  
-✨ **[PySpark ETL Pipelines](#)** – Distributed ETL workflows with Airflow & PySpark  
-✨ **[MLOps LLM Pipeline](#)** – LangChain + Hugging Face + FastAPI (RAG & NLP demos)  
-✨ **[Python Utilities](#)** – Small scripts (Prime Checker, Email Cleaner, Dice Roller)  
 
 
 
----
+
+
 
 ## 📊 GitHub Stats
 
