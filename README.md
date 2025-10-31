@@ -1,5 +1,5 @@
 # 👩‍💻 Amala 
-"**Senior Python Developer | Backend Engineer | AI/ML Explorer**  
+**Senior Python Developer | Backend Engineer | AI/ML Explorer**  
 
 🔭 Building scalable microservices, APIs, and backend systems with Python.  
 ⚡ Experienced with FastAPI, Flask, Django, and modern cloud-native architectures.  
@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->"
+-->
